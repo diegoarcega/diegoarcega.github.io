@@ -1,5 +1,10 @@
 {
-	"name": "My app",
+	"name": "Diego - Front End Developer ",
+	"short_name": "Front End Developer ",
+	"lang": "en-GB",
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#05295b",
 	"icons": [
 		{
 			"src": "\/android-chrome-36x36.png",
